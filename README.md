@@ -1,5 +1,4 @@
 # 🛒 Blinkit Sales Analysis Dashboard
-
 **Blinkit** - India's Last Minute App - has been visualized in this interactive Power BI dashboard to analyze outlet-level performance, product category trends, and customer preferences.
 
 ---
